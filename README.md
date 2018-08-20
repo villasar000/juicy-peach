@@ -1,4 +1,4 @@
 # juicy-peach
-hello i like peache.
+hello i like peaches.
 Ich bin Sarah, und du?
 Meine lieblingsobst ist Pfrirsich!
