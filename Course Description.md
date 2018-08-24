@@ -39,7 +39,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
+![alt text](robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
 
 
 
