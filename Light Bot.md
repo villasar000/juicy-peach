@@ -2,3 +2,5 @@ Light Bot is a fun game that helps me problem-solve and learn the basics of codi
 The concept of Light Bot and simple coding can help me prepare for the real coding I will be working on with real robots and it will help me become a better problem solver. Since the first Light Bot game was created by a highschooler, it will inspire me to do well in this class while I work with real robots.
 
 
+I also tried the program RoboMind. Robomind is similar to Light Bot, but simpler. But both programs help users get an understanding of what robotics is and how to use code. Although the codes are simple and given, it gives the user of sense of what coding is.
+
