@@ -15,3 +15,5 @@
 <b>Conditional Definition</b>
 
 - A conditional in programming is a statement that performs different actions depending on whether a programmer specified a boolean condition to be true or false. For example, in video games, if a player gathers 100 points, a smiley face would pop up on screen, and if the 100 points are not met, nothing would happen. A conditional are if and then statements that help programs run many different types of actions. 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/If-Then-Else-diagram.svg/220px-If-Then-Else-diagram.svg.png)
